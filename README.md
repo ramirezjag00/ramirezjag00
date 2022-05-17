@@ -14,8 +14,8 @@
 
 ### Tooling
 - [react-native-ts-template](https://github.com/ramirezjag00/react-native-ts-template)
-- [Alias Dot File](https://github.com/ramirezjag00/dotFiles)
 - [group-exports-last-autofix](https://github.com/ramirezjag00/group-exports-last-autofix)
+- [Alias Dot File](https://github.com/ramirezjag00/dotFiles)
 
 ### Articles
 - [git-practices-and-strategies](https://github.com/ramirezjag00/git-practices-and-strategies)
