@@ -4,7 +4,6 @@
 - 👯 I’m looking to collaborate on react native libraries/apps
 - 🤔 I’m currently learning/looking for help with: JSI, JNI, Fabric, Turbo Modules, Native iOS/Android and C++
 - 😎 Hobbies: Watching on Netflix/HBO, reading manga & tech articles, exploring food & cooking, experimenting with plants
-- 📫 How to reach me: ramirez.jag00@gmail.com
 
 ### Demo
 - [crypto-trading-app](https://github.com/ramirezjag00/crypto-trading-app)
