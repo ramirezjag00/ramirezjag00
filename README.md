@@ -16,8 +16,10 @@
 - [group-exports-last-autofix](https://github.com/ramirezjag00/group-exports-last-autofix)
 - [Alias Dot File](https://github.com/ramirezjag00/dotFiles)
 
-### Articles
+### Articles / Docs
 - [git-practices-and-strategies](https://github.com/ramirezjag00/git-practices-and-strategies)
+- [RN - recommended-folder-structure](https://github.com/ramirezjag00/react-native-ts-template/tree/main/template#recommended-folder-structure)
+- [RN - package-directory](https://github.com/ramirezjag00/react-native-ts-template/tree/main/template#rn-package-directory)
 - [dev-documentation](https://github.com/ramirezjag00/dev-documentation)
 - [react-native-resources](https://github.com/ramirezjag00/react-native-resources)
 - [aspiring-developer-tips](https://github.com/ramirezjag00/aspiring-developer-tips)
