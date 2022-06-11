@@ -2,7 +2,7 @@
 
 - 🔭 I’m a React Native Developer
 - 👯 I’m looking to collaborate on react native libraries/apps
-- 🤔 I’m currently learning/looking for help with: JSI, Codegen, Fabric, Turbo Modules, Native iOS (Object-C) / Android (Java/Kotlin) and C++
+- 🤔 I’m currently learning/looking for help with: JSI, Codegen, Fabric, Turbo Modules, Native iOS (Swift/Object-C) / Android (Java/Kotlin) and C++
 - 😎 Hobbies: Watching on Netflix/HBO, reading manga & tech articles, exploring food & cooking, experimenting with plants
 
 ### Demo
