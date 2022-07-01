@@ -20,6 +20,6 @@
 - [git-practices-and-strategies](https://github.com/ramirezjag00/git-practices-and-strategies)
 - [react-native-resources](https://github.com/ramirezjag00/react-native-resources)
 - [RN - recommended-folder-structure](https://github.com/ramirezjag00/react-native-ts-template/tree/main/template#recommended-folder-structure)
-- [RN - package-directory](https://github.com/ramirezjag00/react-native-ts-template/tree/main/template#rn-package-directory)
+- [RN - package-directory](https://github.com/ramirezjag00/react-native-resources#react-native-package-directory)
 - [aspiring-developer-tips](https://github.com/ramirezjag00/aspiring-developer-tips)
 - [dev-documentation](https://github.com/ramirezjag00/dev-documentation)
