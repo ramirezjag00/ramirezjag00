@@ -12,8 +12,12 @@
   - [e-commerce-cart-app](https://github.com/ramirezjag00/e-commerce-cart-app)
   - [ticketing-system-fullstack-web-app](https://github.com/ramirezjag00/ticketing-system-fullstack-web-app)
   - [newsfeed-fullstack-gql-app](https://github.com/ramirezjag00/newsfeed-fullstack-gql-app)
+
 - iOS Native Projects Compilation
   - [Swift/Objective-C | UIKit/SwiftUI](https://github.com/ramirezjag00/iOS-Native-Demo)
+
+- Android Native Projects Compilation
+  - [Java/Kotlin](https://github.com/ramirezjag00/Android-Native-Demo)
 
 ### Tooling
 - [react-native-ts-template](https://github.com/ramirezjag00/react-native-ts-template)
