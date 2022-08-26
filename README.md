@@ -5,8 +5,9 @@
 ### Demo
 - React Native
   - [crypto-trading-app](https://github.com/ramirezjag00/crypto-trading-app)
-  - [marketplace-flashlist](https://github.com/ramirezjag00/marketplace-flashlist)
+  - [search-sort-table-view](https://github.com/ramirezjag00/search-sort-table-view)
   - [e-commerce-cart-app](https://github.com/ramirezjag00/e-commerce-cart-app)
+      - [e-commerce-cart-app using flashlist](https://github.com/ramirezjag00/marketplace-flashlist)
   - [ticketing-system-fullstack-web-app](https://github.com/ramirezjag00/ticketing-system-fullstack-web-app)
   - [newsfeed-fullstack-gql-app](https://github.com/ramirezjag00/newsfeed-fullstack-gql-app)
 
