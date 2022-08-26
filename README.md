@@ -8,8 +8,8 @@
   - [search-sort-table-view](https://github.com/ramirezjag00/search-sort-table-view)
   - [e-commerce-cart-app](https://github.com/ramirezjag00/e-commerce-cart-app)
       - [e-commerce-cart-app using flashlist](https://github.com/ramirezjag00/marketplace-flashlist)
-  - [ticketing-system-fullstack-web-app](https://github.com/ramirezjag00/ticketing-system-fullstack-web-app)
-  - [newsfeed-fullstack-gql-app](https://github.com/ramirezjag00/newsfeed-fullstack-gql-app)
+  - [newsfeed-fullstack-gql-rn-app](https://github.com/ramirezjag00/newsfeed-fullstack-gql-app)
+  - [random-4-block-carousel](https://github.com/ramirezjag00/react-native-four-block-carousel)
 
 - iOS Native Projects Compilation
   - [Swift/Objective-C | UIKit/SwiftUI](https://github.com/ramirezjag00/iOS-Native-Demo)
