@@ -18,5 +18,5 @@
   - [Java/Kotlin](https://github.com/ramirezjag00/Android-Native-Demo)
 
 ### Tooling
-- [react-native-ts-template](https://github.com/ramirezjag00/react-native-ts-template)
+- [REGenKit](https://github.com/ramirezjag00/regenkit)
 - [group-exports-last-autofix](https://github.com/ramirezjag00/group-exports-last-autofix)
