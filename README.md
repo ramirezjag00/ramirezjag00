@@ -4,7 +4,7 @@
 
 ### My Starter Kit (REGenKit)
 - [@regenkit/cli](https://x.com/ramirezjag00/status/1913248502488174719)
-- [@regenkit/template](https://github.com/ramirezjag00/regenkit-template)
+- [@regenkit/template](https://drive.google.com/file/d/1AS1VjffgW8c_8FwqQNMIRfxkVsDybelk/preview)
 
 <details>
   <summary>Old Demos</summary>
